@@ -40,6 +40,11 @@ int main(int argc, char *argv[])
 	  printf("Vui long nhap gia tri <sai so> lon hon 0\n");
 	  return 4;
 	}
+      if (saiso > somu)
+        {
+          printf("Vui long nhap gia tri <sai so> nho hon <so mu>\n");
+          return 5;
+        }
     }
 
   printf("Gia tri cua e^%.3lf la: %.9lf\n", somu, tinhE(somu, saiso));
