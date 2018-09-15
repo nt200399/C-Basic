@@ -35,9 +35,9 @@ int main(int argc, char *argv[])
     {
       somu = atoi(argv[2]);
       saiso = atof(argv[3]);
-      if (saiso < 0)
+      if (saiso <= 0)
 	{
-	  printf("Vui long nhap sai so >= 0\n");
+	  printf("Vui long nhap gia tri <sai so> lon hon 0\n");
 	  return 4;
 	}
     }
@@ -62,4 +62,3 @@ double tinhE(double somu, double saiso)
   
   return giatri;
 }
-
