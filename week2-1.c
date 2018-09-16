@@ -40,9 +40,9 @@ int main(int argc, char *argv[])
 	  printf("Vui long nhap gia tri <sai so> lon hon 0\n");
 	  return 4;
 	}
-      if (saiso > somu)
+      if (abs(saiso) > abs(somu))
         {
-          printf("Vui long nhap gia tri <sai so> nho hon <so mu>\n");
+          printf("Vui long nhap gia tri |<sai so>| nho hon |<so mu>|\n");
           return 5;
         }
     }
