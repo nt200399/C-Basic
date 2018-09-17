@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX 20
+#define MAX 50
 
 void cp(FILE *file1, FILE *file2);
 
