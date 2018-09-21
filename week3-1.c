@@ -28,6 +28,7 @@ int main(int argv, char *argc[])
 
   strcpy(filename1, argc[2]);
   dolech = atoi(argc[3]);
+  dolech %= MAX_ALP;
   
   if ((file1 = fopen(filename1, "r")) == NULL)
     {
@@ -35,9 +36,9 @@ int main(int argv, char *argc[])
       return 2;
     }
 
-  if (dolech <= 0)
+  if (dolech < 0)
     {
-      printf("Vui long nhap do lech > 0\n");
+      printf("Vui long nhap do lech >= 0\n");
       return 4;
     }
 
