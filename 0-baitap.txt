@@ -1,0 +1,7 @@
+
+Bài 1: Mã hóa cộng (tuần 2);
+
+Bài 2: Thống kê các kí tự xuất hiện trong văn bản !
+
+Bài 3: Danh sách sinh viên của lớp 
+Họ và Tên có thể viết liền nhau
