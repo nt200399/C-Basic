@@ -16,7 +16,7 @@ int main(int argv, char *argc[])
     {
       printf("Nhap sai tham so dong lenh!\n"
 	     "Nhap lai theo mau: ./bai2 <filename>\n"
-	     "Vi du: ./bai2 a.txt\n");
+	     "Vi du: ./bai2 dulieu.txt\n");
       return 2;
     }
 
