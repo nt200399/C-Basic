@@ -1,3 +1,4 @@
+//File dinh kem: https://github.com/thanhhff/C-Basic/blob/master/week3-3-danhsach.txt
 #include <stdio.h>
 
 #define MAX_DS 50
