@@ -1,0 +1,18 @@
+
+1. Viet mot chuong trinh tham so dong lenh tinh e^x
+co the nhan 1 doi so hoac 2 doi so
+vd: E 50  ( e x )
+hoac: E 50 0.0003 < thu 2 la: sai so (e x y)
+
+
+
+2. Lap trinh voi tham so dong lenh, viet chuong trinh bac 2 voi cac tham so da biet 
+vd: sde a b c
+
+FIX het tat ca cac loi !!!
+
+
+3. ap dung tham so dong lenh viet chuong trinh copy
+mycp a1.txt a2.txt
+
+Chu y: kiem tra cu phap, huong dan nguoi dung ! 
