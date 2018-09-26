@@ -51,6 +51,7 @@ void inputDS(FILE *file1, SV sinhvien[])
   char str[MAX_LEN];
   int i = 0;
   
+	//Quet du lieu tu dong thu 2
   while(fgets(str, MAX_LEN, file1) != NULL)
     {
       fscanf(file1, "%d %d %s %s", &sinhvien[i].stt, &sinhvien[i].mssv, sinhvien[i].name, sinhvien[i].sdt);
