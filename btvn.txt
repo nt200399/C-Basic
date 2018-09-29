@@ -1,0 +1,16 @@
+Bai 1: Bo loc noi dung 
+
+Bai 2: Homework ICT55
+cai dat ham subStr
+
+offset tinh tu 0;
+trich ra mot sau con cua s1
+number la so ki tu
+
+xu ly tat cac ngoai le
+vd: xau 5 ki tu lay 10 ????
+ offset + number vuot qua -> lay den het xau
+
+Dung bo nho dong!
+
+Bai 3: Viết chương trình copy-multimode
