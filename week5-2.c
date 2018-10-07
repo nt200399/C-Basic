@@ -101,6 +101,7 @@ void text2dat(FILE *fileT, FILE *fileD)
   //in sinh vien vao file dat;
   fwrite(sinhvien, sizeof(SV), ssv, fileD);
 
+  free(sinhvien);
   fclose(fileT);
   fclose(fileD);
   printf("Chuyen file Txt sang Dat thanh cong!\n");
