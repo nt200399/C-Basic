@@ -1,0 +1,10 @@
+STT  MSSV       HO TEN               SDT             DIEM
+1    20176736   HoKhanhDuong         0925464644      8.50
+2    20176716   LeDucDo              0979111111      9.25
+3    20176756   HoangTrungHieu       0975222222      9.00
+4    20176848   NguyenThiThuPhuong   0132596633      8.75
+5    20176874   NguyenTrungThanh     0979222222      9.00
+6    20176878   DoThiHongThao        0179999999      9.50
+7    20176885   MaiManhThuc          0146677777      8.50
+8    20176891   HoangThiThuTrang     0983333333      9.00
+9    20047555   HoangYem             0978979798	     8.25
